@@ -1,6 +1,6 @@
 # Hi! I'm Miguel
 
-Hello, my name is Miguel, a web developer and software engineering student living in Portugal.
+Hello, my name is Miguel, I'm a web developer and software engineering student living in Portugal.
 
 
 ## My projects
