@@ -9,7 +9,6 @@ Hello, my name is Miguel, I'm a web developer and software engineering student l
 - [E-commerce](https://github.com/Aeziren/e-commerce), auction website where users can register their products and bid on other listings.
 - [Wiki](https://github.com/Aeziren/wiki), a wiki website, where users can contribute to the database with their knowledge.
 - [Mail](https://github.com/Aeziren/email), singlepage mail website, built focusing on asynchronous programming.
-- [To-do List](https://github.com/Aeziren/todo-list), a Python and SQL command line interface app to manage tasks.
 - [Search](https://github.com/Aeziren/google-clone), a search website using Google Search Engine.
 
 
