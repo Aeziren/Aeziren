@@ -5,11 +5,11 @@ Hello, my name is Miguel, I'm a web developer and software engineering student p
 
 ## Projects 👨‍💻
 
-  [🔗 Network](https://github.com/Aeziren/social-network), a social network website with a lot of functionalities made with Django and Javascript.    
-  [🪙 E-commerce](https://github.com/Aeziren/e-commerce), auction website where users can register their products and bid on other listings.     
+  [🔗 Network](https://github.com/Aeziren/social-network), the project that I'm most proud of. Here I learned a lot about the ORM, REST API development and asynchronous programming.   
+  [🪙 E-commerce](https://github.com/Aeziren/e-commerce), auction website where users can register their products and on the database and bid on other users listings.     
   [📚 Wiki](https://github.com/Aeziren/wiki), a wiki website, where users can contribute to the database with their knowledge.    
   [📫 Mail](https://github.com/Aeziren/email), singlepage mail website, built focusing on asynchronous programming.    
-  [🔎 Search](https://github.com/Aeziren/google-clone), a search website using Google Search Engine.
+  [🔎 Search](https://github.com/Aeziren/google-clone), pure HTML and CSS search website based on Google Search Engine.
  
 ## Skills 🎯
 #### Programming Languages
