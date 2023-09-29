@@ -1,6 +1,6 @@
 # Hi! I'm Miguel 👋
 
-Hello, my name is Miguel, I'm a web developer and software engineering student pursuing my first job opportunity on the field.
+Hello, my name is Miguel, I'm a web developer and software engineering student pursuing my first job opportunity in the field.
 
 
 ## Projects 👨‍💻
