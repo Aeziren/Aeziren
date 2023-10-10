@@ -19,7 +19,7 @@ Hello, my name is Miguel, I'm a web developer and software engineering student p
 #### Backend
 [![My Skills](https://skillicons.dev/icons?i=sqlite,gcp)](https://skillicons.dev)
 #### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,regex)](https://skillicons.dev)
 
 ## Contact Me 📩
 
