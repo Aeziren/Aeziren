@@ -21,6 +21,8 @@ Hello, my name is Miguel, I am a software developer and technology lover.
 #### Tools
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/) [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/) [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) [![My Skills](https://skillicons.dev/icons?i=regex)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet)
 
-## Contact Me 📩
+## Reach Me 📩
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/miguelsilvalima/) [![Steam](https://github.com/Aeziren/Aeziren/assets/123553708/c8b47203-846f-4e71-a7fa-c9659543507f)](https://steamcommunity.com/id/aeziren/) 
+[![Gmail](https://github.com/Aeziren/Aeziren/assets/123553708/4173a250-9c11-47c4-936e-2f3d4e0cceb7)](mailto:miguelsl2000@gmail.com)
 
-Send me an email: miguelsl2000@gmail.com
+
