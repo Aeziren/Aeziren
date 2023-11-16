@@ -25,6 +25,4 @@ Hello, my name is Miguel, I am a software developer and technology lover.
 ## Reach Me 📩
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/miguelsilvalima/) [![Gmail](https://github-production-user-asset-6210df.s3.amazonaws.com/123553708/282827400-4173a250-9c11-47c4-936e-2f3d4e0cceb7.png)](mailto:miguelsl2000@gmail.com) [![Steam](https://github-production-user-asset-6210df.s3.amazonaws.com/123553708/282825892-c8b47203-846f-4e71-a7fa-c9659543507f.png)](https://steamcommunity.com/id/aeziren/)
 
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img title="C" alt="C" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /></a>
-
 
