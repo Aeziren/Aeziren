@@ -18,7 +18,7 @@ Hello, my name is Miguel, I am a software developer and technology lover.
 #### Web Development
 [![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![My Skills](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/) [![My Skills](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/3.0.x/) [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/) 
 #### Backend
-[![My Skills](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/) [![My Skills](https://skillicons.dev/icons?i=gcp&theme=light)](https://cloud.google.com/)
+[![My Skills](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/) [![My Skills](https://skillicons.dev/icons?i=gcp&theme=light)](https://cloud.google.com/) [![My Skills](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
 #### Tools
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/) [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/) [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) [![My Skills](https://skillicons.dev/icons?i=regex)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet) [![Pytest_logo svg](https://github.com/Aeziren/Aeziren/assets/123553708/5ebbf610-14cd-4f98-8fec-7f45c3c59a3d)](https://docs.pytest.org/)
 
