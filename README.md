@@ -1,6 +1,6 @@
 # Hi! I'm Miguel 👋
 
-Hello, my name is Miguel, I am a software developer and technology lover.
+Hello, my name is Miguel, I am a software developer and technology enthusiast.
 
 
 ## Projects 👨‍💻
