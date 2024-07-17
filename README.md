@@ -15,6 +15,7 @@ Hello, my name is Miguel, I am a software developer and technology enthusiast.
 #### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/Javascript) [![My Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/) 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /></a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /></a>
 #### Web Development
 [![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![My Skills](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/) [![My Skills](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/3.0.x/) [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/) 
 #### Backend
