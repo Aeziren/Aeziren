@@ -1,5 +1,3 @@
-_22.07.2025_
-
 # Hi! I'm Miguel
 
 Hello, my name is Miguel, I am a software developer and technology enthusiast.
