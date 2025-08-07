@@ -1,10 +1,15 @@
+_22.07.2025_
+
 # Hi! I'm Miguel
 
 Hello, my name is Miguel, I am a software developer and technology enthusiast.
  
 ## Skills
 #### Programming Languages
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /></a> <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /></a> <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img height="50" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/800px-Logo_C_sharp.svg.png" /></a> [![My Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/) 
+ [![My Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/) <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /></a> <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /></a> <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img height="50" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/800px-Logo_C_sharp.svg.png" /></a> [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/Javascript)
+
+#### Web Development
+[![My Skills](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/) [![My Skills](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/3.0.x/) [![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/) 
 #### Backend
 [![My Skills](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/) [![My Skills](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/) [![My Skills](https://skillicons.dev/icons?i=gcp&theme=light)](https://cloud.google.com/) 
 #### Tools
@@ -12,5 +17,6 @@ Hello, my name is Miguel, I am a software developer and technology enthusiast.
 
 ## Reach Me
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/miguelsilvalima/) [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:miguelsl2000@gmail.com) [![Steam](https://github-production-user-asset-6210df.s3.amazonaws.com/123553708/282825892-c8b47203-846f-4e71-a7fa-c9659543507f.png)](https://steamcommunity.com/id/aeziren/)
+
 
 
