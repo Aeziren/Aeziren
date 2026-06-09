@@ -15,7 +15,7 @@ Hello, my name is Miguel, I am a software developer and technology enthusiast.
 
 #### Backend
 <p>
-  <img height="50" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" />
+  <img height="50" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/sqlserver-auto.svg" alt="SQL Server" title="PostgreSQL" />
   <img height="50" src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite" />
   <img height="50" src="https://skillicons.dev/icons?i=gcp&theme=light" alt="Google Cloud" title="Google Cloud" />
 </p>
